@@ -10,3 +10,5 @@ System in Java for a bookshop to help their customers who are in the store to ha
 ### Technologies
 Eclipse for Java Developers - 2020-12
 Java v.11
+Excecutable Jar File
+Txt File
