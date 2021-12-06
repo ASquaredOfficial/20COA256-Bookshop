@@ -1,0 +1,16 @@
+44112233, audiobook, How To Be Right, English, Biography, 30-05-2019, 3.0, 20, 8.3, WMA
+33112266, audiobook, Laws of Power, French, Politics, 22-09-2017, 5.0, 4, 4.5, WMA
+91827364, audiobook, Its Dax, English, Biography, 20-05-2021, 5.0, 5, 5.0, MP3
+44556677, audiobook, Deep Work, French, Business, 05-01-2016, 8.55, 7, 4.0, MP3
+44556688, ebook, Cyber Security, English, Computer Science, 10-10-2020, 10.1, 10, 256, EPUB
+22446688, ebook, Big Money Energy, French, Business, 21-01-2021, 10.99, 12, 182, AZW3
+44335566, paperback, Cyber Security, English, Computer Science, 10-10-2020, 10.99, 8, 256, new
+44223344, paperback, The Happy Health Plan, English, Medicine, 10-12-2020, 11.25, 3, 288, used
+33332233, ebook, Office Not Required, English, Business, 11-02-2018, 12.2, 4, 258, MOBI
+22334455, paperback, Intelligent Investor, English, Business, 23-10-2015, 14.2, 2, 640, used
+11223344, paperback, A Promised Land, English, Biography, 17-11-2020, 17.5, 5, 768, new
+23456789, ebook, Laws of Power, English, Politics, 03-09-2017, 18.1, 15, 724, PDF
+33221144, audiobook, Project Management, English, Computer Science, 10-12-2019, 22.0, 9, 7.2, AAC
+11224455, audiobook, A Promised Land, English, Biography, 24-11-2020, 30.25, 10, 4.5, MP3
+33331122, paperback, Project Management, English, Computer Science, 01-12-2019, 32.5, 3, 132, new
+12345678, paperback, Introduction to AI, French, Computer Science, 20-05-2019, 50.0, 8, 410, new
