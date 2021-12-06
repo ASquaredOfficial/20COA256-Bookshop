@@ -1,2 +1,12 @@
-# 20COA256-Bookshop
-Bookshop coursework
+# 20COA256-Bookshop Coursework
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+
+### General info
+System in Java for a bookshop to help their customers who are in the store to handle many of their shopping activities in an easy and practical manner.
+
+### Technologies
+Eclipse for Java Developers - 2020-12
+Java v.11
